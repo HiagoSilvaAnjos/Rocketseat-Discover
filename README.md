@@ -1,5 +1,6 @@
-# Rocketseat-Discover
- Trilha Fundamentar
+<h1 align="center">Rocketseat-Discover</h1>
+ <h2 align="center">Trilha Fundamentar</h2>
 
+<br>
 
-[teste](https://hiagosilvaanjos.github.io/Rocketseat-Discover/CSS/estudando-css/index.html)
+[<strong>Github pages teste</strong>](https://hiagosilvaanjos.github.io/Rocketseat-Discover/CSS/estudando-css/index.html)
