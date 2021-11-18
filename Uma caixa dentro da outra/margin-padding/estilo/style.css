@@ -4,8 +4,8 @@
 
 div, section {
     border: 1px solid red;
-    width: 100px;
-    height: 100px;
 
     margin: 10px auto;
+
+    padding: 20px 2em 8px 50%;
 }
